@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Reinforcement Learning and Robotics
 - 👯 I’m looking to collaborate on Artificial Intelligence projects
 - 📫 How to reach me: sarvan0506@gmail.com
+- ePortfolio - https://eportfolio.greatlearning.in/saravana-alagar
+- My medium page - https://sarvan0506.medium.com/
