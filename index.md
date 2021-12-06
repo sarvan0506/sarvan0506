@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sarvan0506&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+</a>
 
-You can use the [editor on GitHub](https://github.com/sarvan0506/sarvan0506/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Welcome to Saravana's GitHub 👋
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
+![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 
-```markdown
-Syntax highlighted code block
+Here are some ideas to get you started:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sarvan0506/sarvan0506/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 🔭 I’m currently working on Deep Learning, Computer Vision, Natural Language Processing
+- 🌱 I’m currently learning Reinforcement Learning and Robotics
+- 👯 I’m looking to collaborate on Artificial Intelligence projects
+- 📫 How to reach me: sarvan0506@gmail.com
+- ePortfolio - https://eportfolio.greatlearning.in/saravana-alagar
+- My medium page - https://sarvan0506.medium.com/
